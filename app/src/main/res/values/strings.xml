@@ -1,0 +1,120 @@
+<!--
+  ~ Copyright (C) 2021 Muhammed Ali Ammar
+  ~
+  ~    Licensed under the Apache License, Version 2.0 (the "License");
+  ~    you may not use this file except in compliance with the License.
+  ~    You may obtain a copy of the License at
+  ~
+  ~        http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~    Unless required by applicable law or agreed to in writing, software
+  ~    distributed under the License is distributed on an "AS IS" BASIS,
+  ~    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~    See the License for the specific language governing permissions and
+  ~    limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Mora News</string>
+
+    <string name="tab_top_stories">Top Stories</string>
+    <string name="tab_popular">Popular</string>
+
+
+    <string name="health_header">Health</string>
+    <string name="science_header">Science</string>
+    <string name="tech_header">Technology</string>
+
+    <string name="business_header">Business</string>
+    <string name="entertainment_header">Entertainment &#38; Arts</string>
+    <string name="sports_header">Sports</string>
+
+
+    <string name="category_list_header">More Topics</string>
+
+    <string name="logo_title">🅼🅾🆁🅰</string>
+    <string name="request_result_title">Sorry, there are no results</string>
+    <string name="request_suggestions">Suggestions</string>
+    <string name="suggestion_1">-Make sure that all words are spelled correctly.</string>
+    <string name="suggestions_2">-Try different keywords</string>
+    <string name="suggestions_3">-Try more general keywords</string>
+
+    <string name="connection_error">No internet connection</string>
+    <string name="retry">Retry</string>
+    <string name="no_internet_no_data_message">Please check your internet connection and try again</string>
+    <string name="exit_web_view">press one more time</string>
+    <string name="breaking_news_notif_title">Breaking News</string>
+
+    <string name="copyright_form">Copyright © Muhammed Ali</string>
+    <string name="search_query_hint">Search for news</string>
+    <string name="expandable_group_description">press to expand news categories</string>
+    <string name="outline_news_pic_description">the news thumbnail</string>
+    <string name="simple_news_pic_description">the news thumbnail</string>
+
+    <string name="intent_fail_message">"No such app to perform that action"</string>
+
+    <!--    menu items-->
+    <string name="search_menu_item">Search</string>
+    <string name="setting_menu_item">Settings</string>
+    <string name="contact_us_menu_item">Contact us</string>
+    <string name="share_menu_item">share</string>
+
+    <!--     preference list entries -->
+    <string name="sync_every_hour">Every hour</string>
+    <string name="sync_every_three_hour">Every three hours </string>
+    <string name="sync_every_six_hours">Every six hours </string>
+    <string name="sync_daily">daily</string>
+
+    <!--     preference list entry values -->
+    <string name="sync_every_hour_value" translatable="false">1</string>
+    <string name="sync_every_three_hour_value" translatable="false">3</string>
+    <string name="sync_every_six_hours_value" translatable="false">6</string>
+
+
+    <!--    Time units -->
+    <string name="hour_form">%1$d hour</string>
+    <string name="short_hour_form">%1$d h</string>
+    <string name="many_hours_form">%1$d hours ago</string>
+
+    <string name="day_form">%1$d day</string>
+    <string name="short_day_form">%1$d d</string>
+    <string name="many_days_form">%1$d days ago</string>
+
+    <string name="minute_form">%1$d minute</string>
+    <string name="short_minute_form">%1$d m</string>
+    <string name="many_minutes_form">%1$d minutes ago</string>
+
+    <string name="just_now_form">Just now</string>
+
+    <!--    preferences -->
+    <string name="data_pref_category_title">Data</string>
+    <string name="background_syncing_summary">Download articles on WIFi in the background for faster browsing and better offline experience</string>
+    <string name="background_syncing_title">Background syncing</string>
+    <string name="images_syncing_title">Sync images for offline usage</string>
+    <string name="images_syncing_summary">Turn this on and the app will download thumbnail images for offline usage when doing a background download</string>
+    <string name="general_pref_category_title">General</string>
+    <string name="about_pref_category_title">About the app</string>
+    <string name="about_pref_title">Mora News Version</string>
+    <string name="about_version_summary">1.0.0 – 1/6/2021</string>
+    <string name="text_size_pref_title">Test Size</string>
+    <string name="text_size_pref_summary">Customise the text size in this app via device settings</string>
+    <string name="notification_pref_category_title">Notifications</string>
+    <string name="notification_pref_title">Notification settings</string>
+    <string name="notification_pref_summary">Customise how you receive Mora News App notifications</string>
+    <string name="sync_frequency_title" >Background sync frequency</string>
+
+    <!--   preferences keys-->
+    <string name="data_pref_category_key" translatable="false" >data</string>
+    <string name="background_syncing_key" translatable="false">background_syncing</string>
+    <string name="about_pref_category_key" translatable="false" >about_the_app</string>
+    <string name="text_size_pref_key" translatable="false" >text_size</string>
+    <string name="sync_daily_value" translatable="false">24</string>
+    <string name="general_pref_category_key" translatable="false" >general</string>
+    <string name="images_syncing_key" translatable="false">images_syncing</string>
+    <string name="notification_pref_category_key" translatable="false">notifications</string>
+    <string name="notification_pref_key" translatable="false">notification_settings</string>
+    <string name="sync_frequency_key" translatable="false">sync_frequency</string>
+</resources>
+
+
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/drawable/baseline_arrow_forward_24.xml" value="0.1345" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/drawable/baseline_expand_less_36.xml" value="0.1345" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/drawable/baseline_expand_more_36.xml" value="0.1345" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/drawable/baseline_search_24.xml" value="0.1345" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/drawable/baseline_share_24.xml" value="0.1345" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/drawable/error_image_holder.xml" value="0.1345" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/drawable/expandable_list_item_selector.xml" value="0.1345" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/drawable/expandable_list_selector.xml" value="0.1345" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1345" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/drawable/loading_img.xml" value="0.1345" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/drawable/no_internet_connected_24.xml" value="0.1345" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/drawable/retry_selector.xml" value="0.1345" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/drawable/search_cursor.xml" value="0.1345" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/drawable/splash_screen.xml" value="0.1345" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/layout/category_header_list_item.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/layout/expandable_list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/layout/fragment_home_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/layout/fragment_paging.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/layout/fragment_popular.xml" value="0.2064814814814815" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/layout/fragment_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/layout/fragment_settings.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/layout/fragment_top_stories.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/layout/fragment_web_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/layout/news_outline_list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/layout/news_simple_list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/layout/no_internet_no_data.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/menu/home_screen_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/menu/search_action_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/menu/web_view_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mma/Desktop/Moranews/app/src/main/res/xml/app_preferences.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
